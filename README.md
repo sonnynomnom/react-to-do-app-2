@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![https://raw.githubusercontent.com/sonnynomnom/react-to-do-app-2/main/screenshot.png](https://raw.githubusercontent.com/sonnynomnom/react-to-do-app-2/main/screenshot.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
